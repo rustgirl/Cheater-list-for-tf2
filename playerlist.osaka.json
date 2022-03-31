@@ -104,6 +104,27 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648686542
+			},
+			"steamid": "[U:1:85479401]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "league of legends hater",
+				"time": 1648690169
+			},
+			"steamid": "[U:1:99101475]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -147,6 +168,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u2736\u2736",
+				"time": 1648686638
+			},
+			"steamid": "[U:1:162052531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "76561198123332927",
 				"time": 1648174502
 			},
@@ -161,6 +192,16 @@
 				"time": 1648174502
 			},
 			"steamid": "[U:1:164589734]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Agni",
+				"time": 1648690096
+			},
+			"steamid": "[U:1:167694528]"
 		},
 		{
 			"attributes": [
@@ -215,10 +256,12 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"cheater",
+				"racist"
 			],
 			"last_seen": {
-				"time": 1648168928
+				"player_name": "SunnyD-Pad",
+				"time": 1648690531
 			},
 			"steamid": "[U:1:207152741]"
 		},
@@ -438,6 +481,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "coconutcarl97",
+				"time": 1648686656
+			},
+			"steamid": "[U:1:392494359]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Grand Theft Wizards X",
 				"time": 1648174502
 			},
@@ -502,6 +555,16 @@
 				"time": 1648174502
 			},
 			"steamid": "[U:1:443909144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pablo_DonkeyDong_2007",
+				"time": 1648612045
+			},
+			"steamid": "[U:1:445645389]"
 		},
 		{
 			"attributes": [
@@ -931,6 +994,16 @@
 				"time": 1648174502
 			},
 			"steamid": "[U:1:1112876552]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648690516
+			},
+			"steamid": "[U:1:1118803078]"
 		},
 		{
 			"attributes": [
@@ -1634,6 +1707,16 @@
 				"time": 1648167582
 			},
 			"steamid": "[U:1:1149883708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648611060
+			},
+			"steamid": "[U:1:1149898191]"
 		},
 		{
 			"attributes": [
@@ -2467,8 +2550,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "-={o.W.n}=- Emperor Mediziner ",
-				"time": 1648173088
+				"player_name": "A\u200fpok\r",
+				"time": 1648688831
 			},
 			"steamid": "[U:1:1215806193]"
 		},
@@ -2537,8 +2620,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "\udb40\udc21\udb40\udc21\udb40\udc21\u2067\u2067Loona\u202c\r",
-				"time": 1648516171
+				"player_name": "eis\u200fh\r",
+				"time": 1648688833
 			},
 			"steamid": "[U:1:1215921943]"
 		},
@@ -2597,8 +2680,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Ariel\u202c\r",
-				"time": 1648473633
+				"player_name": "Saulen\u200f\r",
+				"time": 1648689425
 			},
 			"steamid": "[U:1:1216170226]"
 		},
@@ -2617,8 +2700,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Captain Osaka\u202c\r",
-				"time": 1648519798
+				"player_name": "Baile\u200fy\r",
+				"time": 1648688831
 			},
 			"steamid": "[U:1:1216225484]"
 		},
@@ -2647,10 +2730,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "the fungus\u202c\r",
-				"time": 1648241832
+				"player_name": "t\u200fhis beat go hard\r",
+				"time": 1648688818
 			},
 			"steamid": "[U:1:1216410326]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "'Greey'\u200f\r",
+				"time": 1648687766
+			},
+			"steamid": "[U:1:1216455473]"
 		},
 		{
 			"attributes": [
@@ -2727,8 +2820,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Da Bird\u202c\r",
-				"time": 1648180713
+				"player_name": "FO\u200fXFIRE\r",
+				"time": 1648690043
 			},
 			"steamid": "[U:1:1217021367]"
 		},
@@ -2741,6 +2834,16 @@
 				"time": 1648266116
 			},
 			"steamid": "[U:1:1217034986]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "h\u200forsie \u10e6\r",
+				"time": 1648688818
+			},
+			"steamid": "[U:1:1217316070]"
 		},
 		{
 			"attributes": [
@@ -3296,6 +3399,16 @@
 				"time": 1648268214
 			},
 			"steamid": "[U:1:1280558463]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)default bot",
+				"time": 1648611149
+			},
+			"steamid": "[U:1:1282537431]"
 		},
 		{
 			"attributes": [
