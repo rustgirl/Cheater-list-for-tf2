@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"file_info": {
 		"authors": [
-			"pazer"
+			"Lemongrass"
 		],
-		"description": "Official player blacklist for TF2 Bot Detector.",
-		"title": "Official player blacklist",
-		"update_url": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/staging/cfg/playerlist.official.json"
+		"description": "My custom cheater list for tf bot detector.",
+		"title": "Player blacklist",
+		"update_url": "https://raw.githubusercontent.com/CaptainOsaka/Cheater-list-for-tf2/main/playerlist.json"
 	},
 	"players": [
 		{
